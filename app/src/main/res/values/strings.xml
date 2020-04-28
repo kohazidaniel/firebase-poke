@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Push Notification Sender</string>
+    <string name="default_notification_channel_id">default_notification_channel</string>
+    <string name="default_notification_channel_name">Default notifications channel</string>
+    <string name="error_getting_push_token">Sikertelen volt a push token létrehozása</string>
+    <string name="your_push_token_title">A te token-ed</string>
+    <string name="to_push_token_title">Push notification küldése</string>
+    <string name="copy_btn_description">Másolás vágólapra</string>
+    <string name="noti_token">Címzett token-je</string>
+    <string name="noti_title">Cím</string>
+    <string name="noti_body">Üzenet</string>
+    <string name="noti_btn_send">Küldés</string>
+    <string name="snackbar_copy">Vágólapra másolva</string>
+    <string name="snackbar_succes">Üzenet sikeresen kézbesítve</string>
+    <string name="snackbar_error">Valami hiba történt</string>
+    <string name="snackbar_invalid_token">Nem létezik ilyen token</string>
+    <string name="snackbar_empty_field">Hiányos mezők</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091368080660",
+    "firebase_url": "https://mobilalkfejl-push-noti.firebaseio.com",
+    "project_id": "mobilalkfejl-push-noti",
+    "storage_bucket": "mobilalkfejl-push-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091368080660:android:31d006e84868d243355e01",
+        "android_client_info": {
+          "package_name": "com.kohazidaniel.pushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091368080660-hu66f47ok75rqsgq7jvjhv1q1kkspcbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BK25itEoOkyxm0n4hlOp2jqvDJ5h7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091368080660-hu66f47ok75rqsgq7jvjhv1q1kkspcbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
